@@ -7,7 +7,7 @@ Specifically made for EXCEL files and translation of SAP t100 table message text
 - Source language needs to be set
 
 Before use:
--pip install googletrans==4.0.0-rc1
--pip install openpyxl
+- pip install googletrans==4.0.0-rc1
+- pip install openpyxl
 
 Example:

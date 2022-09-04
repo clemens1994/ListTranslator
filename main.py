@@ -32,7 +32,7 @@ for generator in sheet.iter_cols(min_col=4, max_col=4, min_row=2):
             try:
                 #translate old cell
                 text = str(cell.value)
-                translated = translator.translate(text, dest='en', src='de')
+                translated = translator.translate(text, dest='sr', src='de')
 
                 #add new cell
                 new_cell = sheet.cell( row=cell.row, column=cell.column+1)
