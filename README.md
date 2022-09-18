@@ -10,4 +10,7 @@ Before use:
 - pip install googletrans==4.0.0-rc1
 - pip install openpyxl
 
+Todo:
+- max. 73 characters per translated message
+
 Example:
