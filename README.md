@@ -11,6 +11,6 @@ Before use:
 - pip install openpyxl
 
 Todo:
-- max. 73 characters per translated message
+- transliterate option
 
 Example:
