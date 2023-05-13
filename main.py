@@ -26,7 +26,7 @@ def limit_length(message):
 
 #---------------------------------------------------------
 
-path = 'c:/Users/49175/Downloads/t100.xlsx'
+path = input()
 
 excel_file = openpyxl.load_workbook( path )
 
